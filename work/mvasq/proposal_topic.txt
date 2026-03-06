@@ -1,0 +1,5 @@
+I intend on using Gemini North to investigate variable red giants for possible extremely near companions. This is based on S. Howell's work “Probable Direct Imaging Discovery of the Stellar Companion to Betelgeuse,” in which evidence for a companion to Betelgeuse was discovered at extremely close orbits (within the atmosphere of Betelgeuse). This provided an alternate explaination to Betelgeuse's occasional variability, a property seen in many other red giants.  
+
+This would expand our understanding of stellar formation, binary formation, and red giants. 
+
+This work would observe directly following a flaring event of the red giants, hoping the flare indicates the companion is at or near its greatest seperation from the red giant. This will also take into count previous flaring events for red giants, aiming to establish a possible orbital period. 
