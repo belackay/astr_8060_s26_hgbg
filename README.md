@@ -46,9 +46,9 @@ Vanderbilt University <br>
 
 ## Homework
 
-* [Homework 1](./hw/HW1.pdf) (due 01/20/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW1_solution.pdf)
-* [Homework 2](./hw/HW2.pdf) (due 02/10/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf)
-* [Homework 3](./hw/HW3.pdf) (due 02/24/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW3_solution.pdf)
+* [Homework 1](./hw/HW1.pdf) (due 01/20/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW1_solution.pdf))
+* [Homework 2](./hw/HW2.pdf) (due 02/10/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf))
+* [Homework 3](./hw/HW3.pdf) (due 02/24/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW3_solution.pdf))
 * [Homework 4](./hw/HW4.pdf) (due 03/17/2026 @ 09:30am CST)
 * [Homework 5](./hw/HW5.pdf) (due 03/31/2026 @ 09:30am CDT)
 <!-- Upcoming activities are commented out
