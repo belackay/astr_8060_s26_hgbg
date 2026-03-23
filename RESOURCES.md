@@ -69,15 +69,10 @@ Vanderbilt University <br>
 [Gemini Exposure Time Calculators (ETCs)](https://www.gemini.edu/instrumentation/gmos/exposure-time-estimation) <br>
 [Las Cumbres ETC](https://exposure-time-calculator.lco.global/) <br>
 
+### Week 12
+[Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
 
 <!-- Upcoming resources are commented out
-### Week 9
-[astropy.sigma_clip](https://docs.astropy.org/en/stable/api/astropy.stats.sigma_clip.html) <br>
-[combining flats notebook](https://github.com/astropy/ccd-reduction-and-photometry-guide/blob/main/notebooks/05-04-Combining-flats.ipynb) <br>
-
-### Week 10
-[HST/WFC3 flats](https://www.stsci.edu/hst/instrumentation/wfc3/data-analysis) <br>
-[JWST/NIRCam flats](https://jwst-docs.stsci.edu/jwst-near-infrared-camera/nircam-performance/nircam-flat-fields) <br>
 
 ### Week 11
 [Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
