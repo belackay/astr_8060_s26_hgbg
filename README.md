@@ -33,7 +33,9 @@ Vanderbilt University <br>
 | T 17                        | Computing: apertures                                           |[[notes]](./notes/ASTR8060_notes_apertures.pdf)[[notebook]](./notebooks/apertures.ipynb)[[links]](RESOURCES.md#week-11)|
 | R 19                        | Computing: finding stars                                       |[[notes]](./notebooks/starfinder.ipynb)[[links]](RESOURCES.md#week-11)|
 | T 24                        | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
-| T 26                        | Diffraction and interference                                   |[[notes]](./notes/ASTR8060_notes_diffraction.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 11 |
+| R 26                        | Diffraction and interference                                   |[[notes]](./notes/ASTR8060_notes_diffraction.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 11 |
+| T 31                        | Spectrographs                                                  |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-13) |
+| <ins>April</ins><br> R 2    | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
 <!-- Upcoming activities are commented out
 | T 24                        | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
 | R 26                        | Observing proposal lab                                         |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
