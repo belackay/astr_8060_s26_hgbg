@@ -72,6 +72,9 @@ Vanderbilt University <br>
 ### Week 12
 [Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
 
+### Week 13
+
+
 <!-- Upcoming resources are commented out
 
 ### Week 11
