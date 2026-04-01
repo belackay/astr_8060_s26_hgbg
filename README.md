@@ -36,6 +36,10 @@ Vanderbilt University <br>
 | R 26                        | Diffraction and interference                                   |[[notes]](./notes/ASTR8060_notes_diffraction.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 11 |
 | T 31                        | Spectrographs                                                  |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-13) |
 | <ins>April</ins><br> R 2    | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
+| T 7                         | Proposal/HW6 work                                              ||
+| R 9                         | Proposal/HW6 work                                              ||
+| T 14                        | Time Allocation Committees                                     |[[notes]](./final/noirlab_tac_intro.pdf)[[links]](RESOURCES.md#week-15)|
+| R 16                        | Panel Review                                                   ||
 <!-- Upcoming activities are commented out
 | T 24                        | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
 | R 26                        | Observing proposal lab                                         |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
@@ -53,15 +57,9 @@ Vanderbilt University <br>
 * [Homework 1](./hw/HW1.pdf) (due 01/20/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW1_solution.pdf))
 * [Homework 2](./hw/HW2.pdf) (due 02/10/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf))
 * [Homework 3](./hw/HW3.pdf) (due 02/24/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW3_solution.pdf))
-* [Homework 4](./hw/HW4.pdf) (due 03/17/2026 @ 09:30am CST)
+* [Homework 4](./hw/HW4.pdf) (due 03/17/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW4_solution.ipynb))
 * [Homework 5](./hw/HW5.pdf) (due 03/31/2026 @ 09:30am CDT)
-<!-- Upcoming activities are commented out
-* [Homework 2](./hw/HW2.pdf) (due 02/03/2026 @ 09:30am CST)
-* [Homework 3](./hw/HW3.pdf) (due 02/17/2026 @ 09:30am CST)
-* [Homework 4](./hw/HW4.pdf) (due 03/03/2026 @ 09:30am CST)
-* [Homework 5](./hw/HW5.pdf) (due 03/24/2026 @ 09:30am CDT)
-* [Homework 6](./hw/HW6.pdf) (due 04/07/2026 @ 09:30pm CDT)
--->
+* [Homework 6](./hw/HW6.pdf) (due 04/22/2026 @ 09:30am CDT)
 
 ## Final Project
 Your final project assignment will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. 
