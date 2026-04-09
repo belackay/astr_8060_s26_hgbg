@@ -60,6 +60,14 @@ Vanderbilt University <br>
 [more on imexam](https://imexam.readthedocs.io/en/0.9.1/index.html) <br>
 [interactive imexam tutorial notebook](./notebooks/Imexam.ipynb) <br>
 
+### Week 12
+[Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
+
+### Week 13
+[Spectroscopic data reductions](./notes/spec_reductions.pdf) <br>
+
+### Week 14
+
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
 [NOIRLab Call for Proposals 2026A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
@@ -69,10 +77,6 @@ Vanderbilt University <br>
 [Gemini Exposure Time Calculators (ETCs)](https://www.gemini.edu/instrumentation/gmos/exposure-time-estimation) <br>
 [Las Cumbres ETC](https://exposure-time-calculator.lco.global/) <br>
 
-### Week 12
-[Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
-
-### Week 13
 
 
 <!-- Upcoming resources are commented out
